@@ -1,5 +1,6 @@
 # 👋Welcome to chiaminiverse
-## I am Chia Min Tseng, but most people call me Jasmine.
+## Who am I?
+I am Chia Min Tseng, but most people call me Jasmine.
 
 💻 Master of Computing student (Computer Science major) at Curtin University, Western Australia  
 🎓 Expected graduation: June 2026  
