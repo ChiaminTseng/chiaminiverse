@@ -6,7 +6,7 @@ I am Chia Min Tseng, but most people call me Jasmine.
 🎓 Expected graduation: June 2026  
 🔎 Interested in software engineering, web & mobile apps, and AI
 
-## 🚀 Skills & Tools
+## Skills & Tools
 - **Languages:** Python, JavaScript, Dart, SQL  
 - **Frameworks:** Flutter, React, Node.js, Express.js, Django  
 - **Databases:** MongoDB Atlas, Firebase  
